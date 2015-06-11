@@ -1,4 +1,4 @@
-SONIC BIKE SETUP
+SONIC BIKE SETUP: Install Instructions for Beagle Bone Black
 ===================
 A Bricrophonic Research Institute (BRI) Project: www.sonicbikes.net
 
